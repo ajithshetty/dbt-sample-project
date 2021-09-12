@@ -1,5 +1,10 @@
 Welcome to your new dbt project!
 
+Learn more here!
+
+https://link.medium.com/tC7HfXxntjb
+
+
 ### Using the starter project
 
 Try running the following commands:
